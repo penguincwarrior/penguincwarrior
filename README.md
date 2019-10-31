@@ -54,7 +54,7 @@
 [7] Jinfu Zhao, Hong Zhang, and Cong Pan. Improved reverse integration of SFMEA and SFTA[C]//Reliability, Maintainability and Safety (ICRMS), 2014 International Conference on. IEEE, 2014: 552-557. 
 
 ## Project Experience
-1.	National project: Software reliability requirements analysis operational guidance
+**1.	National project: Software reliability requirements analysis operational guidance**
 
 -	Responsible for the application, proposal, task book and check & accept of the project
 
@@ -64,24 +64,25 @@
 
 -	Responsible for the planning and management of the research team
 
-2.	Natural Science Fund: Software functional failure representation pattern analysis and failure prediction methods research
-	Responsible for establishing time-series models (ARMA, ARIMA, etc.) to predict future failure and raise alarms ahead of failure using failure representations
+**2.	Natural Science Fund: Software functional failure representation pattern analysis and failure prediction methods research**
+
+-	Responsible for establishing time-series models (ARMA, ARIMA, etc.) to predict future failure and raise alarms ahead of failure using failure representations
 
 -	Guidance of bachelor Gao as a part of the project
 
-3.	National project: software reliability integration techniques and environment development research
+**3.	National project: software reliability integration techniques and environment development research**
 
 -	Responsible for development of software reliability allocation tools, software reliability analysis tools (SFMEA and SFTA), software reliability design principle tools, and software reliability evaluation tools
 
 -	Case study of the overall environment on a flight control system
 
-4.	National project: Research of software system reliability design, analysis and test & evaluation techniques oriented to new generation architecture
+**4.	National project: Research of software system reliability design, analysis and test & evaluation techniques oriented to new generation architecture**
 
 -	Responsible for the application, proposal, and task book of the project
 
 - Guidance of bachelor Feng and Zhang as part of the project
 
-5.	National project: Research of software reliability design, analysis and evaluation techniques 
+**5.	National project: Research of software reliability design, analysis and evaluation techniques**
 
 -	Responsible for the research of comprehensive analysis of software reliability, such as integration/reverse integration of SFMEA and SFTA methods, computer-assisted analysis methods based on control flow graph and data flow graph, and data interchange
 
@@ -89,23 +90,23 @@
 
 -	Responsible for the development of SFMEA-SFTA prototype tool and refinement of software reliability design principle tool
 
-6.	National project: Integration of software reliability engineering and software engineering and application research
+**6.	National project: Integration of software reliability engineering and software engineering and application research**
 
 -	Responsible for the integration of the processes from software reliability engineering and software engineering, as well as data integrations
 
 -	Participate in case study on an operating system extension (OSE) software
 
-7.	Research institute project: XXX system software safety analysis techniques and case study research
+**7.	Research institute project: XXX system software safety analysis techniques and case study research**
 
 -	Responsible for preliminary hazard analysis (PHA), functional hazard analysis (FHA), SFMEA, SFTA analysis on the XXX system
 
-8.	National project: High-level reliability software testing and evaluation techniques analysis
+**8.	National project: High-level reliability software testing and evaluation techniques analysis**
 
 -	Responsible for the accelerated software reliability testing methods research
 
 -	Develop software reliability evaluation tools
 
-9.	Research institute project: software reliability management based on planning-case research
+**9.	Research institute project: software reliability management based on planning-case research**
 
 -	Responsible for research of software reliability case and software safety case
 
@@ -122,29 +123,32 @@
 -	Responsible for part of the appendix translation        
 
 ## Guidance of Junior Fellow Students
-1.	Guidance of bachelor Gao: Research and Application of Runtime Monitoring Technique of Complex Software-Intensive Systems Based on Failure Mechanism
+
+**1.	Guidance of bachelor Gao: Research and Application of Runtime Monitoring Technique of Complex Software-Intensive Systems Based on Failure Mechanism**
 
 -	Research and decision of the runtime monitoring roadmap i.e. monitoring methods, monitoring level, facilitating tools
 
 -	Develop of the prototype tools for the 1st version of software runtime monitoring
 
-2.	Guidance of bachelor Feng: Research on Usage Profile Construction Method for Service-Oriented Software Systems
+**2.	Guidance of bachelor Feng: Research on Usage Profile Construction Method for Service-Oriented Software Systems**
 
 -	Research of transformation from BPEL (service description files) to usage profile
 
 -	Assist in calculating operation probabilities based on similar projects or former versions
 
-3.	Guidance of bachelor Zhang: Construction of User Concurrent Profile Based On Usage Logs
+**3.	Guidance of bachelor Zhang: Construction of User Concurrent Profile Based On Usage Logs**
 
 -	Research of usage log extraction methods
 
 -	Put forward the concept of concurrent profile to characterize SOA software
 
-4.	Guidance of graduate Xie: Computer aided software reliability requirement analysis
+**4.	Guidance of graduate Xie: Computer aided software reliability requirement analysis**
 
 -	Transform existing project achievements for further study
 
 -	Assist graduate in the prototype tools written in C#
+
+**5. Guidance of bachelor Sun: in progress**
 
 ## Self Evaluation
 
