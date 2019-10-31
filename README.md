@@ -10,6 +10,7 @@
 
 **Mail**: cong_pan@buaa.edu.cn
 ## Educational Background
+| time | university | department | status |
 |2019.10-2020.10 (estimate)|University of Stuttgart|Institut für Softwaretechnologie (ISTE)|visiting PhD student|
 |2016.09-2021.03 (estimate)|Beihang University|Systems engineering-software reliability|PhD Student|
 |2014.09-2016.09|Beihang University|Systems engineering-software reliability|Bachelor|   
