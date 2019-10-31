@@ -110,15 +110,15 @@
 
 -	Responsible for research of software reliability case and software safety case
 
-10.	Technical presentation in English: Software reliability engineering (to Pakistan engineering personnel)
+**10.	Technical presentation in English: Software reliability engineering (to Pakistan engineering personnel)**
 
 -	Responsible for presentation materials of software reliability requirements analysis and software reliability testing
 
-11.	Standard translation: Translation of IEEE STD 1633 (for establishment of domestic standards)
+**11.	Standard translation: Translation of IEEE STD 1633 (for establishment of domestic standards)**
 
 -	Responsible for overall management and proofread as well as part of the appendix translation
 
-12.	Standard translation: Translation of SAE JA1002/1003 (for establishment of domestic military standards)
+**12.	Standard translation: Translation of SAE JA1002/1003 (for establishment of domestic military standards)**
 
 -	Responsible for part of the appendix translation        
 
