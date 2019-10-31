@@ -1,13 +1,19 @@
 # Personal Introduction
+
 ## Cong Pan
+
 **Research direction: Software reliability, software defect prediction, deep learning, software engineering**
+
 ## Persional Information
+
 **Education attainment**: PhD student at Beihang University, one-year joint PhD study at University of Stuttgart
+
 **Tutor**: Minyan Lu (Chinese) Michael Pradel (German)
 
 **Phone**: +86-15011102253 (China) +49-17659800658 (Germany)
 
 **Mail**: cong_pan@buaa.edu.cn
+
 ## Educational Background
 | time | university | department | status |
 |-|-|-|-|
@@ -15,7 +21,9 @@
 |2016.09-2021.03 (estimate)|Beihang University|Systems engineering-software reliability|PhD Student|
 |2014.09-2016.09|Beihang University|Systems engineering-software reliability|Bachelor|   
 |2010.09-2014.09|Beihang University|Reliability and systems engineering|Graduate student|
+
 ## Technical Skills 
+
 **1.	Software reliability theories and techniques**
 -	Clear view of software reliability engineering and software engineering, keep track of domestic and international software reliability, quality and safety related standards
 
