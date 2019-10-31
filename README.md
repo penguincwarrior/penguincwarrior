@@ -37,7 +37,7 @@
 -	Translation of international standards i.e. SAE JA1003 & IEEE STD 1633
 
 ## Academic Papers
-7 accepted papers of EI indexing (3 first author)
+**7 accepted papers of EI indexing (3 first author)**
 
 [1] Pan Cong, Lu Minyan, Xu Biao, and Gao Houleng. An Improved CNN Model for Within-Project Software Defect Prediction[J]. Applied Sciences, 2019, 9(10): 2138.
 
