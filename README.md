@@ -41,7 +41,7 @@
 **3.	English level**
 -	IELTS 7, passed CET 4/6
 
--	Translation of international standards i.e. SAE JA1003 & IEEE STD 1633
+-	Translation of international standards e.g. SAE JA1003 & IEEE STD 1633
 
 ## Academic Papers
 **7 accepted papers of EI indexing (3 first author)**
