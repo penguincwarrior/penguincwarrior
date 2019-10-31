@@ -10,13 +10,10 @@
 
 **Mail**: cong_pan@buaa.edu.cn
 ## Educational Background
-2019.10-2020.10 (estimate)   University of Stuttgart  Institut für Softwaretechnologie (ISTE)      visiting PhD student
-
-2016.09-2021.03 (estimate)	 Beihang University       Systems engineering-software reliability     PhD Student  
-
-2014.09-2016.09              Beihang University       Systems engineering-software reliability     Bachelor   
-
-2010.09-2014.09              Beihang University       Reliability and systems engineering          Graduate student
+|2019.10-2020.10 (estimate)|University of Stuttgart|Institut für Softwaretechnologie (ISTE)|visiting PhD student
+|2016.09-2021.03 (estimate)|Beihang University|Systems engineering-software reliability|PhD Student  
+|2014.09-2016.09|Beihang University|Systems engineering-software reliability|Bachelor   
+|2010.09-2014.09|Beihang University|Reliability and systems engineering|Graduate student
 ## Technical Skills 
 **1.	Software reliability theories and techniques**
 -	Clear view of software reliability engineering and software engineering, keep track of domestic and international software reliability, quality and safety related standards
