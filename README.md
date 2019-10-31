@@ -2,8 +2,7 @@
 ## Cong Pan
 **Research direction: Software reliability, software defect prediction, deep learning, software engineering**
 ## Persional Information
-**Education attainment**: PhD student at Beihang University, one-year joint PhD study at University of Stuttgart, Germany
-
+**Education attainment**: PhD student at Beihang University, one-year joint PhD study at University of Stuttgart
 **Tutor**: Minyan Lu (Chinese) Michael Pradel (German)
 
 **Phone**: +86-15011102253 (China) +49-17659800658 (Germany)
