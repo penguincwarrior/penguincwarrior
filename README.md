@@ -19,8 +19,8 @@
 |-|-|-|-|
 |2019.10-2020.10 (estimate)|University of Stuttgart|Institut für Softwaretechnologie (ISTE)|visiting PhD student|
 |2016.09-2021.03 (estimate)|Beihang University|Systems engineering-software reliability|PhD Student|
-|2014.09-2016.09|Beihang University|Systems engineering-software reliability|Bachelor|   
-|2010.09-2014.09|Beihang University|Reliability and systems engineering|Graduate student|
+|2014.09-2016.09|Beihang University|Systems engineering-software reliability|Master|   
+|2010.09-2014.09|Beihang University|Reliability and systems engineering|Bachelor|
 
 ## Technical Skills 
 
@@ -125,7 +125,7 @@
 
 -	Responsible for overall management and proofread as well as part of the appendix translation
 
-**12.	Standard translation: Translation of SAE JA1002/1003 (for establishment of domestic military standards)**
+**12.	Standard translation: Translation of SAE JA1002/1003 (for establishment of domestic standards)**
 
 -	Responsible for part of the appendix translation        
 
