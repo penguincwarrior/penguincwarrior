@@ -27,14 +27,12 @@
 **1.	Software reliability theories and techniques**
 -	Clear view of software reliability engineering and software engineering, keep track of domestic and international software reliability, quality and safety related standards
 
--	Master advanced techniques such as deep learning, machine learning, software defect prediction, software failure prediction, automated software repair, software fault injection and so on
+-	Master techniques such as deep learning, machine learning, software defect prediction, software failure prediction, automated software repair, software fault injection and so on
 
 -	Master techniques throughout software reliability engineering process, including software reliability demands determination, software reliability allocation, software reliability prediction, software reliability evaluation, software reliability testing, and software safety techniques such as PHA, FHA, safety case, and data safety 
 
 **2.	Software development and testing**
 -	Skilled in python/C#/C, familiar with C++/java
-
--	Master deep learning and machine learning techniques 
 
 -	Frequent use of Linux/Ubuntu
 
@@ -44,7 +42,7 @@
 -	Translation of international standards e.g. SAE JA1003 & IEEE STD 1633
 
 ## Academic Papers
-**7 accepted papers of EI indexing (3 first author)**
+**7 accepted papers, 1 of SCI indexing and 6 of EI indexing (3 first author)**
 
 [1] Pan Cong, Lu Minyan, Xu Biao, and Gao Houleng. An Improved CNN Model for Within-Project Software Defect Prediction[J]. Applied Sciences, 2019, 9(10): 2138.
 
