@@ -19,8 +19,8 @@
 |-|-|-|-|
 |2019.10-2020.10 (estimate)|University of Stuttgart|Institut für Softwaretechnologie (ISTE)|visiting PhD student|
 |2016.09-2021.03 (estimate)|Beihang University|Systems engineering-software reliability|PhD Student|
-|2014.09-2016.09|Beihang University|Systems engineering-software reliability|Master|   
-|2010.09-2014.09|Beihang University|Reliability and systems engineering|Bachelor|
+|2014.09-2016.09|Beihang University|Systems engineering-software reliability|Master degree|   
+|2010.09-2014.09|Beihang University|Reliability and systems engineering|Bachelor degree|
 
 ## Technical Skills 
 
@@ -129,7 +129,7 @@
 
 -	Responsible for part of the appendix translation        
 
-## Guidance of Junior Fellow Students
+## Guidance of Fellow Master and Bachelor Students
 
 **1.	Guidance of bachelor Gao: Research and Application of Runtime Monitoring Technique of Complex Software-Intensive Systems Based on Failure Mechanism**
 
